@@ -1,0 +1,23 @@
+{
+        "cards" : [{
+            "heading" : "Karnataka Bengaluru Live Updates: Several areas in Bengaluru to experience power outage",
+            "image" : "https://images.indianexpress.com/2021/01/electricity-reuters-1200-1.jpg",
+            "body" : "Karnataka Bengaluru Coronavirus News Live Updates: The Bangalore Electricity Supply Company (BESCOM) has notified that several areas in the city will experience a disruption in electricity supply over the week beginning Monday. The outage is expected to be between 10 am and 5.30 pm from Monday to Friday. According to BESCOM officials, the areas likely to be affected include Kothnur Main Road, Sadanandappa Compound, Sharada Nagar, Shivashakti Nagar, DRR Hospital, Chunchagatta Main Road, Vinayaka Theatre Road, Cup Factory, Glass Factory Road, and Krishna Layout. “Customers can contact 1912 for further details and grievances,” an official added.",
+            "fake_flag" : "Real",
+            "source" : "The Indian Express"
+        },
+        {
+            "heading" : "Techie tops up OTT, finds Rs 99,000 swiped off",
+            "image" : "https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/articleimages/2021/01/18/download-2021-01-18t024138501-940277-1610933839.png?itok=ltY4V9UI",
+            "body" : "Trying to top up the annual Rs 999 subscription of an Over-The-Top (OTT) media service provider, a 28-year-old software engineer found Rs 99,287 swiped off from his account by cyber criminals.",
+            "fake_flag" : "Fake",
+            "source" : "Deccan Herald"
+        },
+        {
+            "heading" : "800 researchers, students sign letter against farm laws in Bengaluru",
+            "image" : "https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/articleimages/2021/01/18/download-2021-01-18t013002027-940262-1610913806.png?itok=XqSYHlxO",
+            "body" : "“As citizens and members of the academic community, we are deeply concerned about the ongoing crisis in the farm sector. The seasonal nature of farming renders farmers deeply vulnerable to exploitation at the time of harvest. We strongly believe that real reforms are sorely needed to protect the livelihoods of the millions of farmers who bring food to our plate despite enormous hardships,” the letter states. ",
+            "fake_flag" : "Real",
+            "source" : "Deccan Herald"
+        }]
+}
